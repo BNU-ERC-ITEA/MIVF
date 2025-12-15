@@ -1,0 +1,16 @@
+results/
+data_for_single_frame/
+testsets/
+trainsets/
+model_zoo/
+.ipynb_checkpoints/
+.vscode/
+__pycache__
+experiments/
+*.pyc
+*.pyo
+*.pyd
+experiments_restormer/
+experiments_rvrt/
+experiments_basicvsrpp/
+temp_data/
