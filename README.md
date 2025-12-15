@@ -53,7 +53,7 @@ Coming soon.
 
 ## Training
 
-You should modify the json file from [options](https://github.com/cszn/KAIR/tree/master/options) first, for example, setting ["gpu_ids": [0,1,2,3\]](https://github.com/cszn/KAIR/blob/ff80d265f64de67dfb3ffa9beff8949773c81a3d/options/train_msrresnet_psnr.json#L4) if 4 GPUs are used. 
+You should modify the json file from options first, for example, setting "gpu_ids": [0,1,2,3\] if 4 GPUs are used. 
 
 You can run the `main_train_multiFrame.py` by using:
 
@@ -61,7 +61,7 @@ You can run the `main_train_multiFrame.py` by using:
 python main_train_multiFrame.py --opt options/MIVF/MIVF_v1.json
 ```
 
-Distributed Training setting details, please refer to  [KAIR]([cszn/KAIR: Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR](https://github.com/cszn/KAIR)).
+Distributed Training setting details, please refer to  [KAIR]([cszn/KAIR: Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR](https://github.com/cszn/KAIR).
 
 ## Testing
 
@@ -99,4 +99,4 @@ If you find this repository useful, please use the following BibTeX entry for ci
 
 ## Acknowledgement
 
-This repository is built based on [KAIR]([cszn/KAIR: Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR](https://github.com/cszn/KAIR)) repository. Thanks for its awesome work.
+This repository is built based on [KAIR]([cszn/KAIR: Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR](https://github.com/cszn/KAIR) repository. Thanks for its awesome work.
