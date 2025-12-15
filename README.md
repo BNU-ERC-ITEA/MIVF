@@ -1,5 +1,7 @@
 # MIVF
-Codes for MIVF. (Network Implementation of Video Flare Removal). [arXiv]([[2512.11327\] Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene](https://arxiv.org/abs/2512.11327)).
+Codes for MIVF. (Network Implementation of Video Flare Removal). 
+Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene
+[arXiv](https://arxiv.org/abs/2512.11327).
 
 **Major Update**
 
