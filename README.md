@@ -4,14 +4,12 @@ Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independenc
 [arXiv](https://arxiv.org/abs/2512.11327).
 
 **Major Update**
-
-
+1. Data synthesis and generation code.
 
 **To do**
 
-1. ~~Data synthesis and generation code.~~
-2. ~~Image training code.~~
-3. ~~Weights.~~
+1. ~~Image training code.~~
+2. ~~Weights.~~
 
 ## Preparing
 
@@ -63,7 +61,7 @@ You can run the `main_train_multiFrame.py` by using:
 python main_train_multiFrame.py --opt options/MIVF/MIVF_v1.json
 ```
 
-Distributed Training setting details, please refer to  [KAIR]([cszn/KAIR: Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR](https://github.com/cszn/KAIR).
+Distributed Training setting details, please refer to  [KAIR](https://github.com/cszn/KAIR).
 
 ## Testing
 
@@ -101,4 +99,4 @@ If you find this repository useful, please use the following BibTeX entry for ci
 
 ## Acknowledgement
 
-This repository is built based on [KAIR]([cszn/KAIR: Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR](https://github.com/cszn/KAIR) repository. Thanks for its awesome work.
+This repository is built based on [KAIR](https://github.com/cszn/KAIR) repository. Thanks for its awesome work.
